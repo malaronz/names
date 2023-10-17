@@ -1,0 +1,23 @@
+body {
+    background-image: url('https://pibig.info/uploads/posts/2022-07/1657191966_1-pibig-info-p-krasivii-mainkraft-fon-1.jpg');
+    font-family: monospace;
+    font-weight: 400;
+}
+
+.card-header {
+    background-color: rgb(240, 255, 173);
+    color: rgb(137, 150, 99);
+    font-size: larger;
+    font-weight: bold;
+}
+
+.card-body {
+    background-color: rgb(255, 227, 167);
+}
+
+.number1 {
+    margin-top: 150px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
